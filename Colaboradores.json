@@ -1,0 +1,20 @@
+[
+  {
+    "Nombre": "Albert",
+    "Apellido": "Valdemora",
+    "Telefono": "849-435-2294",
+    "Correo": "albert@gmail.com"
+  },
+  {
+    "Nombre": "karina",
+    "Apellido": "Suarez",
+    "Telefono": "809-445-3302",
+    "Correo": "karina@gmail.com"
+  },
+  {
+    "Nombre": "Boy",
+    "Apellido": "Gaspar",
+    "Telefono": "829-865-4346",
+    "Correo": "boygaspar@hotmail.com"
+  }
+]

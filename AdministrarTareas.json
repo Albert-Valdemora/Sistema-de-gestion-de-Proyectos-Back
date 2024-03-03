@@ -1,0 +1,30 @@
+[
+  {
+    "Proyecto": "GestionAV",
+    "Descripcion": "Configurar el servidor",
+    "Estado": "Pendiente",
+    "FechaVencimiento": "2024-05-01T00:00:00",
+    "ColaboradorAsignado": "karina Suarez"
+  },
+  {
+    "Proyecto": "HospitalDario",
+    "Descripcion": "Realizar un Boton en en login",
+    "Estado": "Completada",
+    "FechaVencimiento": "2024-03-20T00:00:00",
+    "ColaboradorAsignado": "Boy Gaspar"
+  },
+  {
+    "Proyecto": "VentasABC",
+    "Descripcion": "software de Tienda",
+    "Estado": "Pendiente",
+    "FechaVencimiento": "2024-02-28T00:00:00",
+    "ColaboradorAsignado": "karina Suarez"
+  },
+  {
+    "Proyecto": "HospitalDario",
+    "Descripcion": "Realizar login en el cual los datos se guarden en la base de datos.",
+    "Estado": "Pendiente",
+    "FechaVencimiento": "2024-03-21T00:00:00",
+    "ColaboradorAsignado": "Albert Valdemora"
+  }
+]

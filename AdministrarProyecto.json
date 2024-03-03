@@ -1,0 +1,20 @@
+[
+  {
+    "Nombre": "GestionAV",
+    "Descripcion": "Desarrollo de una aplicación web para gestionar proyectos",
+    "fechaInicio": "2024-02-20",
+    "fechaFinalizacion": "2024-03-04"
+  },
+  {
+    "Nombre": "VentasABC",
+    "Descripcion": "Implementación de un sistema de ventas en línea para una tienda.",
+    "fechaInicio": "2024-03-01",
+    "fechaFinalizacion": "2024-05-15"
+  },
+  {
+    "Nombre": "HospitalDario",
+    "Descripcion": "Creacion de pagina Web para agendar citas medicas.",
+    "fechaInicio": "2024-02-01",
+    "fechaFinalizacion": "2024-04-30"
+  }
+]
